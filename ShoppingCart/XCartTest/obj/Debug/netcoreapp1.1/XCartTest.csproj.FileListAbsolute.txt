@@ -1,0 +1,15 @@
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\XCartTest.deps.json
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\XCartTest.runtimeconfig.json
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\XCartTest.runtimeconfig.dev.json
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\XCartTest.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\XCartTest.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\obj\Debug\netcoreapp1.1\XCartTest.csprojResolveAssemblyReference.cache
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\obj\Debug\netcoreapp1.1\XCartTest.csproj.CoreCompileInputs.cache
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\obj\Debug\netcoreapp1.1\XCartTest.AssemblyInfo.cs
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\obj\Debug\netcoreapp1.1\XCartTest.dll
+C:\Users\rpandey\source\repos\ShoppingCart\XCartTest\obj\Debug\netcoreapp1.1\XCartTest.pdb
