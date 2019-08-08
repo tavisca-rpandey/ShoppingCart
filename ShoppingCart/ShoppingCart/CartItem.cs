@@ -8,10 +8,10 @@
 
         public CartItem(Product product, double quantity)
         {
-            item = new Product(product.Name,product.PricePerUnit);
+            item = new Product(product.Name, product.PricePerUnit, product.Category);
             this.Quantity = quantity;
             TotalItemCost = GetTotalCost();
-             
+
 
         }
         private double GetTotalCost()

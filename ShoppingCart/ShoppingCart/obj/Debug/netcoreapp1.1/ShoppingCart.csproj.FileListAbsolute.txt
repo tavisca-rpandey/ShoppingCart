@@ -8,3 +8,4 @@ C:\Users\rpandey\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\
 C:\Users\rpandey\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
 C:\Users\rpandey\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.dll
 C:\Users\rpandey\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfoInputs.cache
