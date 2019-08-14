@@ -1,0 +1,16 @@
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\SoppingCartXtest.deps.json
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\SoppingCartXtest.runtimeconfig.json
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\SoppingCartXtest.runtimeconfig.dev.json
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\SoppingCartXtest.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\SoppingCartXtest.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.csprojResolveAssemblyReference.cache
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.csproj.CoreCompileInputs.cache
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.AssemblyInfo.cs
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.dll
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.pdb
+C:\Users\rpandey\source\repos\ShoppingCart\SoppingCartXtest\obj\Debug\netcoreapp1.1\SoppingCartXtest.AssemblyInfoInputs.cache
